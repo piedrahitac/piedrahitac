@@ -26,4 +26,6 @@ I'm glad you're here, welcome. If you are wondering what happened to the little 
 - Wrestling Javascript / Typescript to build web UIs, mostly with React.
 - Setting up monitoring and observability tools.
 
-Thanks for the visit, see you soon! 🛸
+Thanks for the visit, see you soon!
+
+# 🛸
