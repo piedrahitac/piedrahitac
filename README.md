@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 
 # Hello there, stranger! 👽
 
-I'm glad you're here, welcome. If you are wondering what happened to the little green squares, it's just that I don't usually hang out around these corners of the internet unless my current project requires it. I've been doing the software thing profesionally for over 15 years, and hopefully will continue to do so in the future.
+I'm glad you're here, welcome. If you are wondering what happened to the little green squares, it's just that I don't usually hang out around these corners of the internet unless my current project requires it. I've been building software profesionally for over 15 years, and still have gas left in the tank!
 
 ## 👾 Fun things I do well
 - Creating and maintaining SaaS apps with Ruby on Rails.
 - Juggling microservices with Java and Spring.
-- Using relational databases to store and retrieve data.
+- Using relational databases to keep data safe.
 
-## 🪐 Less fun things I can also do
-- Wrestling Javascript / Typescript to build web UIs, mostly with React.
+## 🛸 Less fun things I can also do
+- Wrestling Javascript / Typescript to build web UIs.
 - Setting up monitoring and observability tools.
 
-Thanks for the visit, see you soon!
-
-# 🛸
+Thanks for the visit, see you around! 🪐
