@@ -13,17 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there, stranger! 👽
+# Hi there, stranger! 👽
 
-I'm glad you're here, welcome. I've been building software profesionally for over 15 years, and still have gas left in the tank! If you are wondering what happened to the little green squares, it's just that I don't usually hang out around these corners of the internet unless my current project requires it.
+I've been building software professionally for over 15 years. I enjoy creating high-quality, user-focused products and thrive in collaborative, cross-functional teams. I bring strong communication, positive energy, ownership, and interest in building relationships that support meaningful work.
+
+> [!NOTE]
+> If you are wondering what happened to the little green squares, it's just that I don't usually hang out around these corners of the internet unless my current project requires it.
 
 ## 👾 Fun things I do well
-- Creating and maintaining SaaS apps with Ruby on Rails.
+- Building SaaS apps with Ruby on Rails.
 - Juggling microservices with Java and Spring.
 - Using relational databases to keep data safe.
+- Leading and mentoring software engineering teams.
 
 ## 🛸 Other fun things I can do too
-- Wrestling Javascript / Typescript to build web UIs.
+- Wrestling Javascript / Typescript into web UIs.
 - Setting up monitoring and observability tools.
+- Flying through clouds services like AWS and GCP.
+- Managing CI/CD pipelines.
 
 Thanks for the visit, see you around! 🪐
