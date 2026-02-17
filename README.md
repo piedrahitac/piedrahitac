@@ -29,7 +29,7 @@ I've been building software professionally for over 15 years. I enjoy creating h
 ## 🛸 Other fun things I can do too
 - Wrestling Javascript / Typescript into web UIs.
 - Setting up monitoring and observability tools.
-- Flying through clouds services like AWS and GCP.
+- Flying through cloud services like AWS and GCP.
 - Managing CI/CD pipelines.
 
 Thanks for the visit, see you around! 🪐
