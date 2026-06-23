@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 I've been building software professionally for over 15 years. I enjoy creating high-quality, user-focused products and thrive in collaborative, cross-functional teams. I bring strong communication, positive energy, ownership, and interest in building relationships that support meaningful work.
 
-> [!NOTE]
-> If you are wondering what happened to the little green squares, it's just that I don't usually hang out around these corners of the internet unless my current project requires it.
-
 ## 👾 Fun things I do well
 - Building SaaS apps with Ruby on Rails.
 - Juggling microservices with Java and Spring.
